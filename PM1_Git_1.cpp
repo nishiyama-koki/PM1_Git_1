@@ -5,9 +5,13 @@
 
 int main()
 {
+
+    int playerSpeed = 10;
+
     std::cout << "Hello World!\n";
     std::cout << "プレイヤーがジャンプできるようになった\n";
     std::cout << "プレイヤーが移動できるようになった\n";
+    std::cout << "プレイヤーがplayerSpeedの速さで移動\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
