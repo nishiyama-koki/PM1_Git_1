@@ -6,8 +6,12 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    int playerSpeed = 7;
     std::cout << "プレイヤーがジャンプできるようになった\n";
     std::cout << "プレイヤーが移動できるようになった\n";
+    std::cout << "プレイヤーが7の速さで移動\n";
+
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
@@ -25,3 +29,5 @@ int main()
 
 //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
+
+//プルリクエストのテスト
