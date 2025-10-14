@@ -7,7 +7,9 @@ int main()
 {
     std::cout << "Hello World!\n";
     int playerSpeed = 7;
+
     int enemyCount = 10;
+
     std::cout << "プレイヤーがジャンプできるようになった\n";
     std::cout << "プレイヤーが移動できるようになった\n";
     std::cout << "プレイヤーが7の速さで移動\n";
